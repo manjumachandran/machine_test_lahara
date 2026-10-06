@@ -37,7 +37,7 @@ Clean Architecture with BLoC:
 4. Run `flutter run`
 
 ## Download APK
-The debug APK is available under this repository's **Releases** section.
+Debug APK: https://github.com/manjumachandran/machine_test_lahara/releases/tag/v1.0.0
 
 ## Notes and decisions
 - Pagination uses `_start` / `_limit` instead of `_page`, to show 15 posts
